@@ -1,0 +1,5 @@
+C:\Projeto Bar\Projeto Bar\VIP_Lounge_Club\VIP_Lounge_Club\obj\Debug\VIP_Lounge_Club.csprojAssemblyReference.cache
+C:\Projeto Bar\Projeto Bar\VIP_Lounge_Club\VIP_Lounge_Club\obj\Debug\VIP_Lounge_Club.Form1.resources
+C:\Projeto Bar\Projeto Bar\VIP_Lounge_Club\VIP_Lounge_Club\obj\Debug\VIP_Lounge_Club.Properties.Resources.resources
+C:\Projeto Bar\Projeto Bar\VIP_Lounge_Club\VIP_Lounge_Club\obj\Debug\VIP_Lounge_Club.csproj.GenerateResource.cache
+C:\Projeto Bar\Projeto Bar\VIP_Lounge_Club\VIP_Lounge_Club\obj\Debug\VIP_Lounge_Club.Vip.resources
